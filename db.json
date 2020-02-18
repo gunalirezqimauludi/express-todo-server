@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "s628d02",
+      "title": "Learning Node.JS",
+      "status": "completed"
+    },
+    {
+      "id": "df73640",
+      "title": "Design App Interface",
+      "status": "incomplete"
+    },
+    {
+      "title": "Create UI Guidelines",
+      "status": "incomplete",
+      "id": "lr_GiAl"
+    }
+  ]
+}
